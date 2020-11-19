@@ -28,9 +28,6 @@ class App extends React.Component {
           <b>Global and Country Wise Cases of Corona Virus</b>
         </text>
         <br />
-        <text>
-          <i>(Select Country)</i>
-        </text>
         <br />
         <br />
         <Cards data={data} country={country} />
