@@ -1,0 +1,1 @@
+This is a covid tracking app built with React. 
