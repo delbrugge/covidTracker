@@ -18,6 +18,7 @@ const Cards = ({
       text: "Infected",
       value: confirmed.value,
       bottomText: "Number of infect cases of COVID-19",
+      
     },
     {
       style: styles.recovered,
@@ -49,7 +50,7 @@ const Cards = ({
             md={2}
             className={cx(styles.Card, detail.style)}
             key={index}
-            style={{ margin: "0px 23.675px", padding: "12px" }}
+            style={{ margin: "12px 23.675px", padding: "12px" }}
           >
             <CardContent>
               <Typography color="textPrimary" gutterBottom>
