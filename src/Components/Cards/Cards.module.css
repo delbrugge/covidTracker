@@ -1,9 +1,9 @@
 .container {
-  margin: 50px 100px;
+  margin: 50px 0px;
 }
 
 .card {
-  margin: 0 2% !important;
+  margin: 0 5% !important;
 }
 
 .infected {
