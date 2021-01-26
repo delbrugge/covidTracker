@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/delbrugge/covidTracker/static/css/main.af04aae6.chunk.css",
+    "main.js": "/delbrugge/covidTracker/static/js/main.ba09ad8d.chunk.js",
+    "main.js.map": "/delbrugge/covidTracker/static/js/main.ba09ad8d.chunk.js.map",
+    "runtime-main.js": "/delbrugge/covidTracker/static/js/runtime-main.d08ca487.js",
+    "runtime-main.js.map": "/delbrugge/covidTracker/static/js/runtime-main.d08ca487.js.map",
+    "static/js/2.9f922c60.chunk.js": "/delbrugge/covidTracker/static/js/2.9f922c60.chunk.js",
+    "static/js/2.9f922c60.chunk.js.map": "/delbrugge/covidTracker/static/js/2.9f922c60.chunk.js.map",
+    "index.html": "/delbrugge/covidTracker/index.html",
+    "precache-manifest.924f3faf03a78016c1fdcbd08e7f8710.js": "/delbrugge/covidTracker/precache-manifest.924f3faf03a78016c1fdcbd08e7f8710.js",
+    "service-worker.js": "/delbrugge/covidTracker/service-worker.js",
+    "static/css/main.af04aae6.chunk.css.map": "/delbrugge/covidTracker/static/css/main.af04aae6.chunk.css.map",
+    "static/js/2.9f922c60.chunk.js.LICENSE.txt": "/delbrugge/covidTracker/static/js/2.9f922c60.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/delbrugge/covidTracker/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d08ca487.js",
+    "static/js/2.9f922c60.chunk.js",
+    "static/css/main.af04aae6.chunk.css",
+    "static/js/main.ba09ad8d.chunk.js"
+  ]
+}
